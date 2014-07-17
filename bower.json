@@ -1,0 +1,17 @@
+{
+  "name": "zeros",
+  "version": "0.0.0",
+  "authors": [
+    "zeros <zerosmarketing@gmail.com>"
+  ],
+  "description": "zero-related microlibrary",
+  "main": "zeros.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
